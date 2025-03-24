@@ -1,8 +1,8 @@
 {
   "name": "baseapp",
-  "version": "0.1.0",
-  "description": "base electron application",
-  "main": "main.js",
+  "version": "0.1.1",
+  "description": "base application",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
